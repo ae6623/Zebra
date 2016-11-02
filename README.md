@@ -1,8 +1,10 @@
-## 介绍
+## Introduction 介绍 
 
+ [![Gitter][badge-gitter-img]][badge-gitter] [![Build Status][badge-travis-img]][badge-travis] 
+ ![](https://img.shields.io/badge/zebra-fast-orange.svg)
 Zebra4J 是一款使用 Sping Boot 特性全新开发的 Web 框架，尝试在封装常用Web框架的基础之上，结合微服务的框架思想，解放生产力，快速构建 Web 应用，让开发 Web 项目更加简单、高效。
 
-Frameworks and Tools
+## Frameworks and Tools 
 -----------------------------------
 * Java&IDE: JDK8 Lamda Intellij Idea 16
 * Backend:  SpringBoot Docker Zookeeper (Configured by annotation)
@@ -11,7 +13,7 @@ Frameworks and Tools
 * Build Tool: Maven
 * Other: Commons-Dbcp2(database connection pool) JUnit sl4j Jackson FastJson
 
-About
+## About 关于
 -----------------------------------
 * [Github link](https://github.com/ae6623)
 * [Linkedin link](http://www.linkedin.com/in/ae6623)
