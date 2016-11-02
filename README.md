@@ -1,4 +1,4 @@
-## Introduction 介绍 [![Gitter][badge-gitter-img]][badge-gitter] [![Build Status][badge-travis-img]][badge-travis] ![](zebra) ![](maven)
+## Introduction 介绍 [![Gitter][badge-gitter-img]][badge-gitter] [![Build Status][badge-travis-img]][badge-travis] ![][zebra] ![][maven]
 
 Zebra4J 是一款使用 Sping Boot 特性全新开发的 Web 框架，尝试在封装常用Web框架的基础之上，结合微服务的框架思想，解放生产力，快速构建 Web 应用，让开发 Web 项目更加简单、高效。
 
