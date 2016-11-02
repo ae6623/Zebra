@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 
 /**
  * 反射工具类
- * Created by 58 on 2016/10/27.
+ * Created by lzy@js-dev.cn on 2016/10/27.
  */
 public class ReflectUtil {
 	private static final Logger LOGGER = LoggerFactory.getLogger(ReflectUtil.class);

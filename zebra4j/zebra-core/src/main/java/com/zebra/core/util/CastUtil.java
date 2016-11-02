@@ -4,7 +4,7 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  * 转换工具类 boolean string number
- * Created by 58 on 2016/10/26.
+ * Created by lzy@js-dev.cn on 2016/10/26.
  */
 public final class CastUtil {
 

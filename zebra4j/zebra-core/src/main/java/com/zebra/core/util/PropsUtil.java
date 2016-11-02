@@ -10,7 +10,7 @@ import java.util.Properties;
 
 /**
  * 读取配置文件工具类
- * Created by 58 on 2016/10/26.
+ * Created by lzy@js-dev.cn on 2016/10/26.
  */
 public class PropsUtil {
 

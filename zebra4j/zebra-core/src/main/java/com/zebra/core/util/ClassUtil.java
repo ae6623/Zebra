@@ -17,7 +17,7 @@ import java.util.jar.JarFile;
 
 /**
  * 类操作工具类
- * Created by 58 on 2016/10/26.
+ * Created by lzy@js-dev.cn on 2016/10/26.
  */
 public class ClassUtil {
 
