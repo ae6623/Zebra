@@ -11,7 +11,7 @@ import java.util.Properties;
  */
 public class ConfigHelper {
 	/**
-	 * 配置文件 smart.properties
+	 * 配置文件 app.properties
 	 */
 	private static final Properties CONFIG_PROS = PropsUtil.loadProps(ConfigConstant.CONFIG_FILE);
 }
