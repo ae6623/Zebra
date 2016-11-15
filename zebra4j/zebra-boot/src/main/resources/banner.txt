@@ -1,0 +1,24 @@
+
+                                      bbbbbbbb
+ZZZZZZZZZZZZZZZZZZZ                   b::::::b
+Z:::::::::::::::::Z                   b::::::b
+Z:::::::::::::::::Z                   b::::::b
+Z:::ZZZZZZZZ:::::Z                     b:::::b
+ZZZZZ     Z:::::Z      eeeeeeeeeeee    b:::::bbbbbbbbb    rrrrr   rrrrrrrrr   aaaaaaaaaaaaa
+        Z:::::Z      ee::::::::::::ee  b::::::::::::::bb  r::::rrr:::::::::r  a::::::::::::a
+       Z:::::Z      e::::::eeeee:::::eeb::::::::::::::::b r:::::::::::::::::r aaaaaaaaa:::::a
+      Z:::::Z      e::::::e     e:::::eb:::::bbbbb:::::::brr::::::rrrrr::::::r         a::::a
+     Z:::::Z       e:::::::eeeee::::::eb:::::b    b::::::b r:::::r     r:::::r  aaaaaaa:::::a
+    Z:::::Z        e:::::::::::::::::e b:::::b     b:::::b r:::::r     rrrrrrraa::::::::::::a
+   Z:::::Z         e::::::eeeeeeeeeee  b:::::b     b:::::b r:::::r           a::::aaaa::::::a
+ZZZ:::::Z     ZZZZZe:::::::e           b:::::b     b:::::b r:::::r          a::::a    a:::::a
+Z::::::ZZZZZZZZ:::Ze::::::::e          b:::::bbbbbb::::::b r:::::r          a::::a    a:::::a
+Z:::::::::::::::::Z e::::::::eeeeeeee  b::::::::::::::::b  r:::::r          a:::::aaaa::::::a
+Z:::::::::::::::::Z  ee:::::::::::::e  b:::::::::::::::b   r:::::r           a::::::::::aa:::a
+ZZZZZZZZZZZZZZZZZZZ    eeeeeeeeeeeeee  bbbbbbbbbbbbbbbb    rrrrrrr            aaaaaaaaaa  aaaa
+
+																					by 落雨 1.0
+
+
+
+
