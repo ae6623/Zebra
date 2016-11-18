@@ -14,7 +14,7 @@ public class App {
 
 	@RequestMapping("/")
 	String boot(){
-		return " Zebra is booting  ... ";
+		return " Zebra is booting  ...... ";
 	}
 
 	public static void main(String[] args) {
