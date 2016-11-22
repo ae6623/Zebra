@@ -10,8 +10,9 @@ public interface IRegistry {
 
     /**
      * 服务注册信息
+     *
      * @param serviceName 服务名称 比如 zebra/service
-     * @param address 服务真实地址 比如 ip:port
+     * @param address     服务真实地址 比如 ip:port
      */
     void register(String serviceName, String address);
 }
