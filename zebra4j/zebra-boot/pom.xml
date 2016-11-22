@@ -8,9 +8,11 @@
     <artifactId>boot</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <!--info-->
     <name>zebra-boot</name>
     <description>zebra spirng-boot-web-module</description>
+
     <!--spring boot 1.4.x-->
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -72,8 +74,6 @@
             <artifactId>zookeeper</artifactId>
             <version>3.4.9</version>
         </dependency>
-
-
 
 
     </dependencies>
