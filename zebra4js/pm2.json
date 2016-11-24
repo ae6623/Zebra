@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "zebra4js",
+    "script": "www/production.js",
+    "cwd": "/Users/ae6623/IdeaProjects/thinkjs/zebra4js",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
