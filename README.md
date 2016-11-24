@@ -1,7 +1,7 @@
 ## Introduction 介绍
 [![Gitter][badge-gitter-img]][badge-gitter] [![Build Status][badge-travis-img]][badge-travis] ![][zebra] ![][maven]
 
-`Zebra4J`是一款使用`Sping Boot`特性全新开发的微服务`WEB`框架，尝试封装一些常用框架比如`dubbo`等作为`spring-boot`组件，结合微服务的框架思想，利用`NodeJs`、[Zebra4Js](https://github.com/ae6623/Zebra/zebra4js)作为应用网关，使得各个功能分层服务，持续迭代，解放团队生产力，快速构建`企业级`Web 应用。
+`Zebra4J`是一款使用`Sping Boot`特性全新开发的微服务`WEB`框架，尝试封装一些常用框架比如`dubbo`等作为`spring-boot`组件，结合微服务的框架思想，利用`NodeJs`、[Zebra4Js](https://github.com/ae6623/Zebra/tree/master/zebra4js)作为应用网关，使得各个功能分层服务，持续迭代，解放团队生产力，快速构建`企业级`Web 应用。
 
 
 ## Frameworks and Tools 构建
