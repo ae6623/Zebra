@@ -1,21 +1,26 @@
-## Introduction ½éÉÜ 
+## Introduction ä»‹ç»
 [![Gitter][badge-gitter-img]][badge-gitter] [![Build Status][badge-travis-img]][badge-travis] ![][zebra] ![][maven]
 
-Zebra4J ÊÇÒ»¿îÊ¹ÓÃ Sping Boot ÌØĞÔÈ«ĞÂ¿ª·¢µÄ Web ¿ò¼Ü£¬³¢ÊÔÔÚ·â×°³£ÓÃWeb¿ò¼ÜµÄ»ù´¡Ö®ÉÏ£¬½áºÏÎ¢·şÎñµÄ¿ò¼ÜË¼Ïë£¬½â·ÅÉú²úÁ¦£¬¿ìËÙ¹¹½¨ Web Ó¦ÓÃ£¬ÈÃ¿ª·¢ Web ÏîÄ¿¸ü¼Ó¼òµ¥¡¢¸ßĞ§¡£
+`Zebra4J`æ˜¯ä¸€æ¬¾ä½¿ç”¨`Sping Boot`ç‰¹æ€§å…¨æ–°å¼€å‘çš„å¾®æœåŠ¡`WEB`æ¡†æ¶ï¼Œå°è¯•å°è£…ä¸€äº›å¸¸ç”¨æ¡†æ¶æ¯”å¦‚`dubbo`ç­‰ä½œä¸º`spring-boot`ç»„ä»¶ï¼Œç»“åˆå¾®æœåŠ¡çš„æ¡†æ¶æ€æƒ³ï¼Œåˆ©ç”¨`NodeJs`ã€`Zebra4Js`ä½œä¸ºåº”ç”¨ç½‘å…³ï¼Œä½¿å¾—å„ä¸ªåŠŸèƒ½åˆ†å±‚æœåŠ¡ï¼ŒæŒç»­è¿­ä»£ï¼Œè§£æ”¾å›¢é˜Ÿç”Ÿäº§åŠ›ï¼Œå¿«é€Ÿæ„å»º`ä¼ä¸šçº§`Web åº”ç”¨ã€‚
 
-## Frameworks and Tools ¹¹½¨
+
+## Frameworks and Tools æ„å»º
 * Java&IDE: JDK8 Lamda/Intellij Idea 16
-* Backend:  SpringBoot Docker Zookeeper (Configured by annotation)
-* Database: Mysql/MongoDB
+* Backend:  SpringBoot Docker Zookeeper (Configured by annotation/app)
+* Database: Mysql/MongoDB/Redis
+* Cache:Memcached/Redis
 * Web Server: Nginx/Tomcat 7
 * Build Tool: Maven
 * Other: Commons-Dbcp2(database connection pool) JUnit sl4j Jackson FastJson
+* Port:http://localhost:8888
 
-## About ¹ØÓÚÂäÓê
-* [Github link](https://github.com/ae6623)
-* [My Linkedin link](http://www.linkedin.com/in/ae6623)
-* [qq 43163707]()
-* www.js-dev.cn / www.ae6623.cn
+## About å…³äºè½é›¨
+* [Github-Me](https://github.com/ae6623)
+* [Linkedin-Me](http://www.linkedin.com/in/ae6623)
+* [QQ 43163707]()
+* [Website-Me(ä¸ªäººç«™ç‚¹) www.js-dev.cn](www.js-dev.cn) [www.ae6623.cn](www.ae6623.cn)
+
+* è¯¦ç»†é¡¹ç›®æ–‡æ¡£æŒç»­æ›´æ–°ä¸­ï¼Œä¹Ÿæ¬¢è¿å„ä½è¾¾äººæäº¤PRï¼Œä¸€èµ·ä¸ºChinağŸ‡¨ğŸ‡³å¼€æºé¡¹ç›®æ·»ç –å¢ç“¦ï¼Œ`Zebra4J`ã€`Zebra4Js`æ–‡æ¡£è¯·å‚é˜… [Zebra-doc/Zebra-å¾®æœåŠ¡.md](https://github.com/ae6623/Zebra/blob/master/zebra4j/zebra-doc/zebra-boot/Zebra-%E5%BE%AE%E6%9C%8D%E5%8A%A1.md)
 
 [badge-gitter-img]:       https://badges.gitter.im/hsz/idea-gitignore.svg
 [badge-gitter]:           https://gitter.im/hsz/idea-gitignore
