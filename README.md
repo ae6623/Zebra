@@ -32,4 +32,4 @@
 
 ## License 许可协议
 
-[MIT](https://github.com/ae6623/Zebra/blob/master/LICENSE)
+* [MIT](https://github.com/ae6623/Zebra/blob/master/LICENSE)
