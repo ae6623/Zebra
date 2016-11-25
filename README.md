@@ -12,7 +12,8 @@
 * Web Server: Nginx/Tomcat 7
 * Build Tool: Maven
 * Other: Commons-Dbcp2(database connection pool) JUnit sl4j Jackson FastJson
-* Port:http://localhost:8888
+* Zebra4J  Port:http://localhost:8888
+* Zebra4Js Port:http://localhost:8360
 
 ## About 关于落雨
 * [Github-Me](https://github.com/ae6623)
