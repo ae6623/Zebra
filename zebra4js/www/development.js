@@ -17,3 +17,5 @@ instance.compile({
 });
 
 instance.run();
+var zks = think.config('zk');
+console.log(zks);
