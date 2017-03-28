@@ -15,4 +15,11 @@ public interface IRegistry {
      * @param address     服务真实地址 比如 ip:port
      */
     void register(String serviceName, String address);
+
+    /**
+     * 服务卸载
+     * @param serviceName
+     * @param address
+     */
+    void unRegister(String serviceName, String address);
 }
