@@ -29,6 +29,10 @@ zebra-design
 	* 服务端`Zebra4j`是基于SpringBoot的注册服务端的一个Demo，当多个提供Api的微服务启动，将自动寻找Zookeeper并注册所有的Controller请求映射。
 	* 网关端`Zebra4js`是基于Nodejs的微服务服务发现，用来作为网关层，对前端请求进行接收，并调用Zookeeper，获取真实的微服务Api接口地址，进行请求，并返回到前端结果。	 	
 
+## Feature-list
+* 异步接口实现，基于 Spring-Reactore/Rxjava2
+* 限流熔断，基于 alibaba-sentinel https://github.com/alibaba/sentinel
+
 ## About 关于落雨
 * [Github-Me](https://github.com/ae6623)
 * [Linkedin-Me](http://www.linkedin.com/in/ae6623)
