@@ -32,8 +32,8 @@ zebra-design
 ## About 关于落雨
 * [Github-Me](https://github.com/ae6623)
 * [Linkedin-Me](http://www.linkedin.com/in/ae6623)
-* [QQ]:43163707 ()
-* [微信]:ae6623 ()
+* [QQ:43163707]()
+* [微信:ae6623]()
 * [Js-dev.cn](http://js-dev.cn)
 
 * 详细项目文档持续更新中，也欢迎各位达人提交PR，一起为China🇨🇳开源项目添砖增瓦，`Zebra4J`、`Zebra4Js`文档请参阅 [Zebra-doc/Zebra-微服务.md](https://github.com/ae6623/Zebra/blob/master/zebra4j/zebra-doc/zebra-boot/Zebra-%E5%BE%AE%E6%9C%8D%E5%8A%A1.md)
